@@ -1,0 +1,1 @@
+http://ghdx.healthdata.org/gbd-results-tool?params=gbd-api-2017-permalink/361bd5bf7237ace4d279fcc9e1daf5bd
